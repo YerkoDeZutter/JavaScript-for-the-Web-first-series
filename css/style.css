@@ -1,0 +1,22 @@
+.collers{
+  width: 50px;
+  height: 50px;
+}
+
+.green{
+  background-color: green;
+}
+
+.red{
+  background-color: red;
+}
+
+.blue{
+  background-color: blue;
+}
+
+#colorChange{
+  width: 200px;
+  height: 200px;
+  background-color: black;
+}
