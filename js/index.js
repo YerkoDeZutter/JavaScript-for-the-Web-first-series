@@ -28,17 +28,17 @@
 // })
 //
 // function op2s1(evt) {
-//   calX = parseInt(calX.value);
-//   calY = parseInt(calY.value);
+//   calX2 = parseInt(calX.value);
+//   calY2 = parseInt(calY.value);
 //
 //   if (evt.currentTarget.textContent == "+") {
-//     alert(calX + calY);
+//     alert(calX2 + calY2);
 //   } else if (evt.currentTarget.textContent == "-") {
-//     alert(calX - calY);
+//     alert(calX2 - calY2);
 //   } else if (evt.currentTarget.textContent == "*") {
-//     alert(calX * calY);
+//     alert(calX2 * calY2);
 //   } else if (evt.currentTarget.textContent == "/") {
-//     alert(calX / calY);
+//     alert(calX2 / calY2);
 //   }
 // }
 
